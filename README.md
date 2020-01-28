@@ -31,6 +31,6 @@ jupyter notebook autism_starting_kit.ipynb
 ``` 
 The pre-processed data can be reached under the autism_starting_kit. However, the Atlases data used to collect the time-series information
 is not available anymore.
-* `The starting kit can be found at https://github.com/ramp-kits/autism ` the autism-master folder contains all the 
+* `The starting kit can be found at ` https://github.com/ramp-kits/autism the autism-master folder contains all the 
 data files (except the Atlases) by cloning or downloading this zip the data, img, preprocesing, submissions folders are available locally.
 Challenge Organization details can be found at https://paris-saclay-cds.github.io/autism_challenge/
